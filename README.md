@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is  DADA BLESSING MOYINOLUWA and I'm a DATA ANALYST, from NIGERIA </h2>
+<h2 align="left">Hi 👋! I'm <b>Dada Blessing Moyinoluwa</b> — a Data Analyst from Nigeria 🇳🇬</h2>
 
 ###
 
@@ -13,23 +13,43 @@
 
 ###
 
+<p align="left">
+I am passionate about transforming raw data into meaningful insights that drive informed decisions. With strong analytical thinking, visualization skills, and problem-solving abilities, I work with data to uncover patterns, spot opportunities, and communicate actionable results clearly and effectively.  
+<br><br>
+I am currently expanding into <b>Machine Learning</b> and <b>Cloud Computing</b> to widen my technical capabilities and build scalable end-to-end analytical solutions.
+</p>
+
+---
+
+### 🔧 Skills & Tools
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="30" alt="excel logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="30" alt="powerbi logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
 </div>
 
-###
+---
+
+### 📚 Currently Learning
+- Machine Learning (Supervised & Unsupervised foundations)
+- Cloud fundamentals (Azure / AWS – basics of storage, compute & deployment)
+- Building scalable, automated data workflows
+
+---
+
+### 🚀 Interests & Goals
+- Master advanced data storytelling and dashboard engineering  
+- Work on real-world end-to-end data & ML projects  
+- Contribute to collaborative open-source analytics solutions  
+
+---
+
+### 🌍 Let's Connect
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -44,6 +64,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dadamoyin26-debug/dadamoyin26-debug/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
