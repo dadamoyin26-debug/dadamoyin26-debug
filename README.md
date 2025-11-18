@@ -94,6 +94,11 @@ Here are some of my recent projects:
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/dadamoyin26-debug/dadamoyin26-debug/output/snake.svg" alt="Snake animation" />
+
+
+---
+
 ### 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dadamoyin26-debug&show_icons=true&theme=dracula&include_all_commits=true" height="150" />
@@ -102,20 +107,9 @@ Here are some of my recent projects:
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dadamoyin26-debug&theme=dracula&no-frame=true" />
-</div>
-
----
 
 ### 👀 Visitors
 <div align="center">
-  <img src="https://profile-counter.glitch.me/dadamoyin26-debug/count.svg" alt="Visitor Count" />
+  ![](https://komarev.com/ghpvc/?username=dadamoyin26-debug&abbreviated=true)
 </div>
 
----
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dadamoyin26-debug/dadamoyin26-debug/output/snake.svg" alt="Snake animation" />
